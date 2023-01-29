@@ -1,0 +1,10 @@
+.calendar {
+    font-size: 40px;
+    margin-left: 30px;
+    color: #353a40;
+}
+
+.switch-size {
+    height: 1.5em !important;
+    width: 3.5em !important;
+}
